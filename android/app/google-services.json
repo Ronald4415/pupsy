@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "853869896538",
+    "firebase_url": "https://pupsy-9c473-default-rtdb.firebaseio.com",
+    "project_id": "pupsy-9c473",
+    "storage_bucket": "pupsy-9c473.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853869896538:android:a8b0a7da085a67af904963",
+        "android_client_info": {
+          "package_name": "com.example.pupsy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXPz46RlJj2jyR70ZQqyomJQw1bvTTF-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
